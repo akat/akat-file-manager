@@ -4,7 +4,7 @@
     "Angelos Katsaris <akatsaris@gmail.com>"
   ],
   "description": "file manager component for AngularJS1",
-  "main": ["./lib/akat-file-manager.js",".lib/app.css"],
+  "main": ["./lib/akat-file-manager.js","./lib/app.css"],
   "keywords": [
     "angularjs",
     "filemanager",
